@@ -4,6 +4,12 @@ A Miniature Layout by gosherfed
 
 [CLICK HERE TO VIEW OUR PROJECTS](https://github.com/gosherfed/GOSHERFED-PROJECTS)
 
+DISCLAIMER: Every idea and design in this layout is purely FICTIONAL. The layout uses 100% in-game stock contents.
+
+REQUIREMENTS: ROLLING LINE (the base game)
+
+This is the official page for ABARGANA LINES. This is just a mod for Rolling Line so you'll need to obtain yourself the base game in order to play this.
+All latest versions will always be published here.
 
 [NOTE]
 
