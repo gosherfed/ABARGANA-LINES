@@ -2,9 +2,14 @@
 
 A Miniature Layout by gosherfed
 
+[CLICK HERE TO VIEW OUR PROJECTS](https://github.com/gosherfed/GOSHERFED-PROJECTS)
+
+
 [NOTE]
 
 This is the project we're planning to work on after finishing the development process for Remil Connert. Don't worry as we'll still be publishing new updates for our previous layout... and the development is NOT YET ended, literally.
+
+(Download links are not available right now. The layout's still in development!)
 
 What you can see right here is (sorta) a sneak-peek of our brand-new Abargana Lines. It'll be featuring multi-regions, working automatic tracks and road traffic, just like the previous layout. But we'll definitely add more enhancements and new stuffs! Abargana Lines is about high speed railways and other than that.
 
